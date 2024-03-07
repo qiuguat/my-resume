@@ -1,2 +1,2 @@
 # my-resume
-My resume website
+My first Vue 3 in Vite resume website
